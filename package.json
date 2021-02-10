@@ -1,0 +1,28 @@
+{
+  "name": "empdir2",
+  "version": "1.0.0",
+  "description": "React Employee Directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Papa-Sean/empDir2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Papa-Sean/empDir2/issues"
+  },
+  "homepage": "https://github.com/Papa-Sean/empDir2#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "^4.0.2"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2"
+  }
+}
